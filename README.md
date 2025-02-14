@@ -8,7 +8,6 @@ This is an Open Source Android application that detects when a user's hand is ne
 
 ## Features
 - **Real-time hand and face detection** using MediaPipe.
-- **Adjustable detection frequency** for better performance.
 - **User-friendly UI with alerts** when hand-to-mouth movement is detected.
 - **Uses Jetpack Compose** for a modern and reactive UI.
 
