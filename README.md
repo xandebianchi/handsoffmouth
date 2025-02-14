@@ -1,5 +1,8 @@
 # Hands Off Mouth App
 
+## Goal
+Help those who have the habit of nail biting or other similar behaviors involving the face.
+
 ## Overview
 This is an Open Source Android application that detects when a user's hand is near their mouth using the camera and plays a notification sound to alert them. The app utilizes **CameraX**, **MediaPipe**, and *Jetpack Compose** for real-time detection and a smooth user interface.
 
