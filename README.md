@@ -1,7 +1,7 @@
 # Hands Off Mouth App
 
 ## Overview
-This is an Android application that detects when a user's hand is near their mouth using the camera and plays a notification sound to alert them. The app utilizes **CameraX**, **MediaPipe**, and *Jetpack Compose** for real-time detection and a smooth user interface.
+This is an Open Source Android application that detects when a user's hand is near their mouth using the camera and plays a notification sound to alert them. The app utilizes **CameraX**, **MediaPipe**, and *Jetpack Compose** for real-time detection and a smooth user interface.
 
 ## Features
 - **Real-time hand and face detection** using MediaPipe.
